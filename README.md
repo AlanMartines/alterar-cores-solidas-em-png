@@ -38,7 +38,7 @@
 <h2 id="como-usar">🚀 Como usar</h2>
 <ol>
     <li>Clone o repositório</li>
-    <pre><code>git clone https://github.com/AlanMartines/alterar-cores-solidas-em-png.git</code></pre>
+    <pre><code>git clone https://github.com/AlanMartines/alterar-cores-solidas-em-png.git AlterarCoresSolidasEmPNGs</code></pre>
     <li>Navegue até o diretório do projeto</li>
     <pre><code>cd AlterarCoresSolidasEmPNGs</code></pre>
     <li>Execute o script</li>
