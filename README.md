@@ -11,7 +11,7 @@
 <h2>📖 Índice</h2>
 <ul>
     <li><a href="#-sobre">Sobre</a></li>
-    <li><a href="#-pre-requisitos">Pré-requisitos</a></li>
+    <li><a href="#-pré-requisitos">Pré-requisitos</a></li>
     <li><a href="#-como-usar">Como usar</a></li>
     <li><a href="#-contribuicao">Contribuição</a></li>
     <li><a href="#-licenca">Licença</a></li>
