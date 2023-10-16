@@ -79,4 +79,4 @@
     <li><strong>Email</strong>: alancpmartines@hotmail.com</li>
 </ul>
 
-<p align="center">Desenvolvido com ❤️ por Seu Nome</p>
+<p align="center">Desenvolvido com ❤️ por Alan Martines</p>
