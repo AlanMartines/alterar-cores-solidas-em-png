@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Alterar Cores Sólidas em PNGs</title>
-</head>
-<body>
-
 <h1 align="center">Alterar Cores Sólidas em PNGs</h1>
 
 <p align="center">
@@ -88,6 +80,3 @@
 </ul>
 
 <p align="center">Desenvolvido com ❤️ por Seu Nome</p>
-
-</body>
-</html>
