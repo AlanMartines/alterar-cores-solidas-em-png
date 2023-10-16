@@ -43,7 +43,7 @@
     <pre><code>cd AlterarCoresSolidasEmPNGs</code></pre>
     <li>Execute o script</li>
     <pre><code>python PNGColorTransmute.py</code></pre>
-    <li>Siga as instruções exibidas no terminal</li>
+    <li>Pronto, imagem alterada</li>
 </ol>
 
 <hr>
